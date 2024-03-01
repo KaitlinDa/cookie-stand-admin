@@ -1,4 +1,4 @@
-# Lab 38 Leveling up Front End with React, Next.js, and TailwindCSS
+# Lab 39 Version 3
 
 ## Cookie Stand Admin
 
